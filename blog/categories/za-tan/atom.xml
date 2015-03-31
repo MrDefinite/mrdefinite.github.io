@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Songli's rock place]]></title>
-  <link href="http://mrdefinite.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 杂谈 | Songli's rock place]]></title>
+  <link href="http://mrdefinite.github.io/blog/categories/za-tan/atom.xml" rel="self"/>
   <link href="http://mrdefinite.github.io/"/>
   <updated>2015-03-31T11:53:54+08:00</updated>
   <id>http://mrdefinite.github.io/</id>
