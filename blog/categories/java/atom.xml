@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Songli's rock place]]></title>
-  <link href="http://mrdefinite.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Java | Songli's rock place]]></title>
+  <link href="http://mrdefinite.github.io/blog/categories/java/atom.xml" rel="self"/>
   <link href="http://mrdefinite.github.io/"/>
   <updated>2015-03-31T23:39:58+08:00</updated>
   <id>http://mrdefinite.github.io/</id>
@@ -48,27 +48,6 @@
 <p><img class="classes.dex" src="../images/2015-03-31-classes-dex.jpg" width="300" height="300" title="classes.dex" ></p>
 
 <p>如图，我们需要其中的classes.dex文件。dex实际上也是一种字节码，被Android系统中的Dalvik虚拟机所使用。这里我们利用dex2jar工具将其转换成了普通的Java jar包，里面是我们所熟悉的Java class文件。最后，使用JD-GUI就可以看到反编译回去的源码啦。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[First Blog]]></title>
-    <link href="http://mrdefinite.github.io/blog/2015/03/31/first-blog/"/>
-    <updated>2015-03-31T09:26:43+08:00</updated>
-    <id>http://mrdefinite.github.io/blog/2015/03/31/first-blog</id>
-    <content type="html"><![CDATA[<p>很早前就听说过Octopress是一个面向程序员的博客工具了，最近终于闲下手来，把Octopress和GitHub Pages整合起来了，效果还不错。</p>
-
-<p>关于为什么要写博客，我觉得最主要的原因就是在学习中，输入和输出是同等重要的，甚至可以说输出更为重要一点。以往在看书的过程中，发现了下面一些问题：</p>
-
-<ol>
-<li>读过的内容快就忘记；</li>
-<li>很难将读过的内容完整用自己的语言表达出来；</li>
-</ol>
-
-
-<p>这两点就是只有输入没有输出的主要表现，读过的东西没有内化为自己的知识。而写博客就提供了这样一个再思考的空间，也是一个知识转化的过程。我希望能够踏实的学习一点东西，因此有了这个博客。</p>
-
-<p>纸上读来终觉浅，绝知此事要躬行。</p>
 ]]></content>
   </entry>
   
